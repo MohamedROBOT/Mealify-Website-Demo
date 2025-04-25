@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "AmaticSC";
+  src: url(../fonts/AmaticSC-Regular.ttf);
+  src: url(../fonts/AmaticSC-Regular.woff);
+  src: url(../fonts/AmaticSC-Regular.woff2);
+}
+@font-face {
+  font-family: "OpenSans";
+  src: url(../fonts/OpenSans-Regular.ttf);
+  src: url(../fonts/OpenSans-Regular.woff);
+  src: url(../fonts/OpenSans-Regular.woff2);
+}
+@font-face {
+  font-family: "Inter";
+  src: url(../fonts/Inter24pt-Regular.ttf);
+  src: url(../fonts/Inter24pt-Regular.woff);
+  src: url(../fonts/Inter24pt-Regular.woff2);
+}
+
